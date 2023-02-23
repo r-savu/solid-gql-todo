@@ -1,0 +1,8 @@
+/graph/model/models_gen.go
+/graph/generated.go
+/postgres-data/
+/sqlc/
+/web/node_modules/
+/web/dist/
+/web/yarn.lock
+/web/yarn-error.log
